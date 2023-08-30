@@ -15,12 +15,14 @@
   },
   "interests": [
     { "name": "Software Engineering" },
+    { "name": "AI" },
+    { "name": "Fashion" },
     { "name": "Video Games" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "C", "C++", "Java", "Javascript" ]
     },
     {
       "name": "Toolsets/OS",
