@@ -6,8 +6,8 @@
     "email": "ei4@hawaii.edu",
     "phone": "808-445-3170",
     "website": "https://eino808.github.io",
-    "summary": "Junior at UHM studying Computer Science",
-    "location": { "address": "92-530 Ualehei St", "postalCode": "96707", "city": "Kapolei", "countryCode": "USA", "region": "Hawaii" },
+    "summary": "I am currently a 3rd year at the University of Hawaii at Manoa, studying for BS in Computer Science",
+    "location": { "postalCode": "96707", "city": "Kapolei", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "eino808", "url": "https://github.com/eino808" },
       { "network": "linkedin", "username": "elijah-inofinada", "url": "https://www.linkedin.com/in/elijah-inofinada-2b7ab3289" }
