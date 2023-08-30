@@ -10,7 +10,7 @@ labels:
   - Athletic Software Engineering
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/IMG_1902.jpg">
+<img width="200px" class="rounded float-start pe-4" src="../img/JavaScript-logo.jpg">
 
 ## Into the Fray
 
