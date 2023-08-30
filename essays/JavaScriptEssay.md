@@ -9,7 +9,7 @@ labels:
   - Javascript
   - Athletic Software Engineering
 ---
-<img width="300px" class="rounded float-start pe-4" src="../img/IMG_1902.jpg">
+
 
 ## Into the Fray
 
@@ -17,7 +17,7 @@ labels:
   
   The simplicity and syntax of this language are incredibly beneficial for newbie coders as well as for those of us who might be a bit rusted, such as myself. I revisited and discovered several crucial concepts that are valuable not only for mastering this language but also for personal growth. JavaScript is among the popular computer languages, people flock to when first starting out their coding journey, and there is a reason why this language is one of the best. It's simply great.
   
-
+<img width="300px" class="rounded float-start pe-4" src="../img/IMG_1902.jpg">
 
 ## Real WO(rl)D Conditions
 
