@@ -11,13 +11,15 @@ labels:
 summary: "A makeshift playlist project"
 ---
 
+This interactive program serves as a simulation allowing users to add, remove, or save a specified number of songs (X amount) to a playlist, which can be stored in a file. Within this program, you'll find a collection of no less than five song objects, each containing valid data. To make these operations smoother, the program uses a set of three personalized methods that work together in harmony. Moreover, the custom exceptions help catch any input errors from users that might be out of the valid range. While it may not rival the extensive features of platforms like Spotify, the program faithfully emulates the fundamental experience of managing and organizing songs within a playlist.
+
 <div class="text-center p-4">
   <img width="200px" src="../img/java1.png" class="img-thumbnail" >
-  <img width="200px" src="../img/java2.png" class="img-thumbnail" >
-  <img width="200px" src="../img/java3.png" class="img-thumbnail" >
+  <img width="300px" src="../img/java2.png" class="img-thumbnail" >
+  <img width="300px" src="../img/java3.png" class="img-thumbnail" >
 </div>
 
-This interactive program serves as a simulation allowing users to add, remove, or save a specified number of songs (X amount) to a playlist, which can be stored in a file. Within this program, you'll find a collection of no less than five song objects, each containing valid data. To make these operations smoother, the program uses a set of three personalized methods that work together in harmony. Moreover, the custom exceptions help catch any input errors from users that might be out of the valid range. While it may not rival the extensive features of platforms like Spotify, the program faithfully emulates the fundamental experience of managing and organizing songs within a playlist.
+Above, you'll find snippets of the custom exception, the class designed for modeling the song object, and the main driver class.
 
 Here is an example of many outputs the user could be prompted with:
 
