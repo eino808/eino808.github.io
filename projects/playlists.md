@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/playlists/boba.jpg
+image: img/playlists/boba.png
 title: "Playlists"
 date: 2022
 published: true
