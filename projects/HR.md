@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/HR.jpg
+image: img/HRbruh.jpg
 title: "HR"
 date: 2023
 published: true
