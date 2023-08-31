@@ -2,8 +2,8 @@
 layout: project
 type: project
 image: img/Screenshot 2023-08-30 210117.png
-title: "Playlists"
-date: 2022
+title: "Playlist"
+date: 2023
 published: true
 labels:
   - Java
