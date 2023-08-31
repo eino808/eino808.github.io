@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/playlists/Screenshot 2023-08-30 210117.png
+image: img/Screenshot 2023-08-30 210117.png
 title: "Playlists"
 date: 2022
 published: true
