@@ -25,7 +25,7 @@ Here is the output code the user is prompted with:
 
 ```cpp
 Lets listen to some tunes !!
-			** Boba **
+	** Boba **
 [
 Title: SUNSET BOULEVARD (3: 10) by HOHYUN, 
 Title: KISS ME (3: 32) by DPR LIVE, 
@@ -33,6 +33,25 @@ Title: Peanut Butter & Tears (3: 44) by DPR IAN,
 Title: airplane thoughts (3: 30) by dhruv, 
 Title: War With Heaven (3: 12) by Keshi]
 Do you like it? Should I make any changes?
+yes
+Should I add, or remove a song... or nevermind?
+nevermind
+Great, I hope you liked it!!
+Heres how the playlist looks so far :D!!
+[
+Title: SUNSET BOULEVARD (3: 10) by HOHYUN, 
+Title: KISS ME (3: 32) by DPR LIVE, 
+Title: Peanut Butter & Tears (3: 44) by DPR IAN, 
+Title: airplane thoughts (3: 30) by dhruv, 
+Title: War With Heaven (3: 12) by Keshi]
+Did you want to save the playlist so you can listen to it later?
+yes
+You can save it to a file, type yes or no...
+no
+You just lost all your songs!
+Its okay though, just restart...
+
+Thanks for using my program!! :D
 
 ```
 
