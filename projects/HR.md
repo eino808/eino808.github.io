@@ -2,13 +2,13 @@
 layout: project
 type: project
 image: img/cotton/cotton-square.png
-title: "TicTacToe"
+title: "HR"
 date: 2023
 published: true
 labels:
   - Java
   - GitHub
-summary: "A text TicTacToe game that I developed for ICS 212."
+summary: "HR simulation that I developed for ICS 211."
 ---
 
 <img class="img-fluid" src="../img/cotton/cotton-header.png">
