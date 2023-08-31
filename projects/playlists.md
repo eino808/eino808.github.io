@@ -15,7 +15,7 @@ An interactive program that simulates the user adding, removing, or saving X amo
 
 <div class="text-center p-4">
   <img width="200px" src="../img/java1.png" class="img-thumbnail" >
-  <img width="200px" src="../img/java2.jpg" class="img-thumbnail" >
+  <img width="200px" src="../img/java2.png" class="img-thumbnail" >
   <img width="200px" src="../img/java3.png" class="img-thumbnail" >
 </div>
 
