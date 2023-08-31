@@ -18,10 +18,9 @@ Within this program, you'll find a collection of no less than five song objects,
 <div class="text-center p-4">
   <img width="200px" src="../img/java1.png" class="img-thumbnail" >
   <img width="300px" src="../img/java2.png" class="img-thumbnail" >
-  <img width="300px" src="../img/java3.png" class="img-thumbnail" >
 </div>
 
-Above, you'll find snippets of the custom exception, the class designed for modeling the song object, and the main driver class.
+Above, are snippets of the custom exception, and the class designed for modeling the song object.
 
 Here is an example of many outputs the user could be prompted with:
 
