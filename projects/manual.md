@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/si.png
+image: img/si.jpg
 title: "Stick-Shift"
 date: 2023
 published: true
