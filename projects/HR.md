@@ -13,7 +13,7 @@ summary: "HR simulation that I developed for ICS 211."
 
 This interactive program serves as a simulation for employees accessing their HR database.
 
-```cpp
+```java
 
 Hey there! This is Kapolei Target HR, Whats your name? :D
 eli
@@ -33,7 +33,7 @@ Within this program, the employee is able to add, remove, print all, or print em
 
 Attached below is the code that runs the HR simulation:
 
-```cpp
+```java
 
 import java.util.*;
 
