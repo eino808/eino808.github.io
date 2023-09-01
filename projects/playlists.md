@@ -29,7 +29,7 @@ Do you like it? Should I make any changes?
 
 Within this program, you'll find a collection of no less than five song objects, each containing valid data. To make these operations smoother, the program uses a set of three personalized methods that work together in harmony. Moreover, the custom exceptions help catch any input errors from users that might be out of the valid range. While it may not rival the features of platforms like Spotify, the program emulates the experience of managing and organizing songs within a playlist.
 
-```cpp
+```java
 
 public class SongException extends Exception {
    
@@ -45,7 +45,7 @@ public class SongException extends Exception {
 }
 
 ```
-```cpp
+```java
 
 public class Song {
    
