@@ -29,7 +29,7 @@ Please choose one of the options (type 1, 2, 3, 4, 0)
 
 ```
 
-Within this program, the employee is able to add, remove, print all, or print employees who earn more than a given amount. 
+Within this program, the employee is able to add, remove, print all, or print employees who earn more than a given amount. Navigating the prompts initiates an iterative menu loop until the user opts to close the program.
 
 Attached below is the code that runs the HR simulation:
 
