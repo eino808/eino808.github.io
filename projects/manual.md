@@ -23,4 +23,4 @@ Ever since I was a young boy, I was really into cars. My Dad drove me around in 
 
 I was stalling every single time from a stop and to add onto that, it was rush hour AND raining. It was honestly a miracle we made it back home. From this day forward I will always have a special place for this car in my heart. By any chance you see my clapped car in the parking structure, please DO NOT hit it. I won't be able to afford the repair cost...
 
-This beautiful car is registered in my name, and every month, I'm shelling out for the payments and insurance. Yep, I'm broke. It doesn't make matters any better that I waste my money on clothes and car parts. Remember this folks, broke is temporary, drip is forever!
+This beautiful car is registered in my name, and every month, I'm shelling out for the payments and insurance. Yep, I'm broke. It doesn't help that I waste my money on clothes and car parts. Remember this folks, broke is temporary, drip is forever!
