@@ -18,7 +18,7 @@ As a professional, knowing the difference between asking smart and not-so-smart 
 In Eric Raymond's Essay ‘[How To Ask Questions The Smart Way](http://www.catb.org/esr/faqs/smart-questions.html)’, he provides a concise and effective approach to asking Computer Science related questions on platforms such as StackOverflow. It highlights the significance of demonstrating respect and conducting prior research before bombarding others with questions. Personally, I don't like asking questions because I have social anxiety. However, on the off chance that I do ask a question, I make sure it's an efficient and effective question that others and myself can gain value from.
 
 ## Smart Question
-[CLICK ME](https://stackoverflow.com/questions/77057435/cors-issue-when-accessing-spring-authorization-servers-oauth2-token-from-anoth)
+[CLICK ME TO QUESTION](https://stackoverflow.com/questions/77057435/cors-issue-when-accessing-spring-authorization-servers-oauth2-token-from-anoth)
 
 <div class="text-center p-4">
   <img width="300px" 
@@ -34,7 +34,7 @@ This question provides detailed context about the issue and includes relevant co
 Although I honestly have no idea what I'm looking at, the problem is about sharing data securely between different parts of the system, and there seems to be an issue with allowing this sharing. The person asking the question has shared specific error messages and pieces of code they've tried to use to solve the problem. They also mention that it's working for one part of the system but not another which helps narrow down the issue. Given all this information, the God that solves this problem is given a lot of useful information for others to understand and assist with their problem.
 
 ## Not-So-Smart Question
-[CLICK ME](https://stackoverflow.com/questions/46207899/c-sharp-how-to-allow-users-to-input-decimals-as-an-answer)
+[CLICK ME TO SEE QUESTION](https://stackoverflow.com/questions/46207899/c-sharp-how-to-allow-users-to-input-decimals-as-an-answer)
 
 This question provided is definitely a not-so-smart question. It's not necessarily a bad question its more of an inexperienced question. I might have asked the same question at one point too, but definitely not on StackOverflow.
 
