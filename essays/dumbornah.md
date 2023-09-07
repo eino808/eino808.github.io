@@ -19,9 +19,15 @@ In Eric Raymond's Essay ‘[How To Ask Questions The Smart Way](http://www.catb.
 
 ## Smart Question
 [CLICK ME](https://stackoverflow.com/questions/77057435/cors-issue-when-accessing-spring-authorization-servers-oauth2-token-from-anoth)
+<div class="text-center p-4">
+  <img width="200px" 
+       src="../img/Screenshot 2023-09-06 222735.png" 
+       class="img-thumbnail" >
+  <img width="200px" 
+       src="../img/Screenshot 2023-09-06 222746.png" 
+       class="img-thumbnail" >
+</div>
 
-<img width="250px" class="rounded float-start pe-4" src="../img/Screenshot 2023-09-06 222735.png">
-<img width="250px" class="rounded float-start pe-4" src="../img/Screenshot 2023-09-06 222746.png">
 This question provides detailed context about the issue and includes relevant code snippets, the specific error message they are encountering, and the efforts to address the problem. 
 
 Although I honestly have no idea what I'm looking at, the problem is about sharing data securely between different parts of the system, and there seems to be an issue with allowing this sharing. The person asking the question has shared specific error messages and pieces of code they've tried to use to solve the problem. They also mention that it's working for one part of the system but not another which helps narrow down the issue. Given all this information, the God that solves this problem is given a lot of useful information for others to understand and assist with their problem.
