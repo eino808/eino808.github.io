@@ -19,6 +19,7 @@ In Eric Raymond's Essay ‘[How To Ask Questions The Smart Way](http://www.catb.
 
 ## Smart Question
 [CLICK ME](https://stackoverflow.com/questions/77057435/cors-issue-when-accessing-spring-authorization-servers-oauth2-token-from-anoth)
+
 <div class="text-center p-4">
   <img width="200px" 
        src="../img/Screenshot 2023-09-06 222735.png" 
