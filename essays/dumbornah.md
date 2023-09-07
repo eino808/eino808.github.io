@@ -36,6 +36,12 @@ Although I honestly have no idea what I'm looking at, the problem is about shari
 ## Not-So-Smart Question
 [CLICK ME TO SEE QUESTION](https://stackoverflow.com/questions/46207899/c-sharp-how-to-allow-users-to-input-decimals-as-an-answer)
 
+<div class="text-center p-4">
+  <img width="300px" 
+       src="../img/Screenshot 2023-09-06 223828.png" 
+       class="img-thumbnail" >
+</div>
+
 This question provided is definitely a not-so-smart question. It's not necessarily a bad question its more of an inexperienced question. I might have asked the same question at one point too, but definitely not on StackOverflow.
 
 The original poster seeks advice on allowing user input of decimals in a C# program but lacks context and specificity. It could be improved by offering more details about the code and specific issues faced. It also briefly mentions confusion between decimals and Booleans, which is somewhat unrelated to the initial inquiry. To make it a smarter question, the poster should have provided specific code snippets or described their challenges in greater detail. 
