@@ -18,7 +18,7 @@ As a professional, knowing the difference between asking smart and not-so-smart 
 In Eric Raymond's Essay ‘[How To Ask Questions The Smart Way](http://www.catb.org/esr/faqs/smart-questions.html)’, he provides a concise and effective approach to asking Computer Science related questions on platforms such as StackOverflow. It highlights the significance of demonstrating respect and conducting prior research before bombarding others with questions. Personally, I don't like asking questions because I have social anxiety. However, on the off chance that I do ask a question, I make sure it's an efficient and effective question that others and myself can gain value from.
 
 ## Smart Question
-[CLICK ME TO QUESTION](https://stackoverflow.com/questions/77057435/cors-issue-when-accessing-spring-authorization-servers-oauth2-token-from-anoth)
+[CLICK ME TO SEE QUESTION](https://stackoverflow.com/questions/77057435/cors-issue-when-accessing-spring-authorization-servers-oauth2-token-from-anoth)
 
 <div class="text-center p-4">
   <img width="300px" 
