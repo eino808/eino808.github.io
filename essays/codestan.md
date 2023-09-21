@@ -3,11 +3,11 @@ layout: essay
 type: essay
 title: "Coding Standard"
 # All dates must be YYYY-MM-DD format!
-date: 2023-09- 20
+date: 2023-09-20
 published: true
 labels:
   - Javascript
-  - Foundation
+  - Athletic Software Engineering
 ---
 
 
