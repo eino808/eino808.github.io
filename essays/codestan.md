@@ -11,7 +11,6 @@ labels:
 ---
 
 
-## Adhering to the Codiing Standard
 
 <div>
   <p> Regarding coding standards, they might appear as minor details in the grand programming scheme. However, my journey in the coding world has shown me its profound importance. They offer arrangement to our code, foster cooperation among designers, and teach good coding habits. Beyond these direct benefits, coding standards are valuable tools for learning programming languages and spotting coding patterns.</p>
