@@ -30,8 +30,5 @@ Plus, Bootstrap's standardized approach makes sure that your website's styles st
 
 <div class="text-center p-4">
   <img width="300px" src="../img/StussyRepKinda.png" class="img-thumbnail" >
-</div>
-
-<div class="text-center p-4">
-  <img width="300px" src="../img/htmlcssexample.png" class="img-thumbnail" >
+  <img src="../img/htmlcssexample.png" class="img-thumbnail" >
 </div>
