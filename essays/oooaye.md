@@ -29,6 +29,6 @@ Plus, Bootstrap's standardized approach makes sure that your website's styles st
 ## Website(s) using Bootstrap VS raw HTML & CSS
 
 <div class="text-center p-4">
-  <img width="300px" src="../img/StussyRepKinda.png" class="img-thumbnail" >
+  <img src="../img/StussyRepKinda.png" class="img-thumbnail" >
   <img src="../img/htmlcssexample.png" class="img-thumbnail" >
 </div>
