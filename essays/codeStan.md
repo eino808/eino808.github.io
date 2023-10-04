@@ -13,7 +13,7 @@ labels:
 
 
 ## Why?
- Since ICS 111, we were taught to abide by the coding standards to make it easy for collaborators to understand your code, teach you good coding habits, and overall eye appeal. Regarding coding standards, they might appear as minor details in the grand programming scheme. However, it is what separates good code from bad code. </p>
+ Since ICS 111, we were taught to abide by the coding standards to make it easy for collaborators to understand your code, teach you good coding habits, and overall eye appeal. Regarding coding standards, they might appear as minor details in the grand programming scheme. However, it is what separates good code from bad code.
 
 ## ESlidowally
 I've faced challenges and rewards as I've been coding with ESLint and IntelliJ. The intricacy of ESLint initially overwhelmed me, but it soon became a really helpful guide. It pushed me to fix my bad coding habits, and I've come to rely on the green checkmark. Not only does it address easy fixes, but it also suggests different ways you could code certain things.
