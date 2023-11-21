@@ -33,27 +33,32 @@ In my time with ICS 314, AI was a big player always there for homework or tackli
   
 - Asking or answering a smart question: I have never done this but I could assume using AI to make the question at hand a 'smart' question or just answering a question, proves to be highly beneficial. It's essential to ensure that the approach doesn't come across as silly or dumb.
   
-- Coding example: 
+- Coding example: The underscore functions WOD was the only instance where I found myself leaning on AI. While I had grasped the core of the code, the intricacies of the underscore functions had me stumped. I'll admit to turning to AI to help with that section of the code. However, I gained a true understanding of it once I could visualize how and why it was implemented in that particular manner.
   
-- Explaining code:
+- Explaining code: As mentioned above, using AI to explain how and why the code was implemented proves to be an invaluable tool, particularly for individuals struggling to grasp the underlying concepts.
   
-- Writing code:
+- Writing code: There was never an instance where AI was needed to write code for this class. Instructions for any and almost every experience were very clear and if you were to have any trouble starting the code, one could always just refer to the instructor's video.
   
-- Documenting code:
+- Documenting code: I've never relied on AI to document my code. Instead, I've always adhered to the best practice of documenting code. This practice is to ensure that if others were to review my code, they would find it comprehensible and easily understandable.
   
-- Quality assurance:
+- Quality assurance: There is no need to use AI for this because within IntelliJ I could just refer to ESLint errors.
   
-- Other uses in ICS 314 not listed:
+- Other uses in ICS 314 not listed: I have used AI for other classes whether it's generating idea lists or directly assisting me in determining potential solutions for specific problems.
   
-
 ## Impact on Learning & Understanding
+AI, particularly ChatGPT, has significantly improved my learning in software engineering. When online explanations got too technical, ChatGPT provided simplified answers, and I could seek clarifications on confusing parts. Late-night coding assistance was invaluable, offering a reliable alternative when human help wasn't available. While ChatGPT is generally helpful, it's not flawless and occasionally provides less useful solutions.
 
 ## Practical Applications
+Leveraging AI for daily tasks holds immense value. As highlighted earlier, AI becomes particularly valuable in instances where human assistance is unavailable. From a software engineering perspective, AI serves as a valuable tool for code refinement and overcoming obstacles when faced with creative blocks.
 
 ## Challenges & Oppurtunities
+AI aids in code generation and debugging, but its reliability isn't guaranteed, often yielding unhelpful solutions. Overreliance may lead to delayed issue resolution and hinder learning. Instead of depending solely on tools like ChatGPT, cultivate independent problem-solving skills. Despite assisting in debugging and code generation, integrating AI tools like ChatGPT into software engineering poses challenges. Balancing their use with a deeper understanding of coding concepts is crucial for success in courses like ICS 314 and interviews.
 
 ## Comparative Analysis
+AI-enhanced learning, in contrast to traditional methods, customizes the learning experience based on an individual's knowledge, particularly in coding and software engineering. Students can leverage AI for explanations or code solutions when facing challenges. However, students need to grasp the provided code or explanations, as AI solutions, while generally useful, may have occasional limitations. Students need to take ownership of understanding solutions, avoiding overreliance on AI, as this self-reliance becomes crucial for addressing issues that may build on earlier problems, ensuring a thorough understanding beyond AI-generated solutions.
 
 ## Future Considerations
+As technology advances, the synergy of human knowledge and AI capabilities holds immense potential, particularly in coding. This collaboration can make individuals valuable assets to employers. While AI might replace certain educational roles, such as tutoring, by offering quick and detailed explanations, software engineers will remain essential for bug detection and identifying avenues for AI improvement. Despite the potential for AI to self-optimize in the future, human developers bring a crucial perspective in determining user needs and addressing software bugs, a capability most AI currently lacks.
 
 ## Conclusion
+In conclusion, I believe that AI is a valuable tool that everyone should familiarize themselves with. While there is the potential for misuse and the development of negative habits, it also brings significant benefits to those who approach it with an open mind. Instead of boycotting AI in the education system, we should actively encourage its use. This way, it can serve not only students but also the general population, aiding in understanding a wide range of inquiries.
