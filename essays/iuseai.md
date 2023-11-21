@@ -1,4 +1,4 @@
-_---
+---
 layout: essay
 type: essay
 title: "AI Wrote This"
