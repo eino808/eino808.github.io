@@ -3,11 +3,10 @@ layout: essay
 type: essay
 title: "Is This Nice?"
 # All dates must be YYYY-MM-DD format!
-date: 2023-09-20
+date: 2023-11-20
 published: true
 labels:
-  - Javascript
-  - Athletic Software Engineering
+  - cheeee
 ---
 
 
