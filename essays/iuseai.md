@@ -14,7 +14,7 @@ labels:
 
 ## Introduction
 
-In my time with ICS 314, AI was a big player always there for homework or tackling any problem on the horizon. AI's a mixed bag, you know? It's like this super smart buddy, but if you're not careful, it can throw some curveballs. In the education scene today, especially in fields like Software Engineering, Artificial Intelligence is shaking up how we learn. On my journey, I've dug into some key AI tools that shaped how I see things, both in the grand scheme and specifically in the world of ICS 314.
+In my time with ICS 314, AI was a big player always there for homework or tackling any problems I had. AI's a mixed bag, you know? It's like this super smart buddy, but if you're not careful, it can throw you some major curveballs. In the education scene today, especially in fields like Software Engineering, Artificial Intelligence is somewhat controversial. During my time in this class, I've dug into some key AI tools that shaped how I see things, both in the grand scheme and specifically in the world of ICS 314.
 
 ## Personal Experience w/ AI
 - Experience WODS: Using AI was never a problem with the experience WODs because it was recommended that you do your best to understand the content and keep retrying until you got a score you were satisfied with. For example, if you got a DNF there's no penalty in trying again to get a better score. If anything, the more you tried the better you would understand the content.
