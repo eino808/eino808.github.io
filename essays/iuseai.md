@@ -25,7 +25,7 @@ In my time with ICS 314, AI was a big player always there for homework or tackli
   
 - Essays: AI serves as a valuable tool for refining sentence structure and adding that extra flair to your writing. In the context of essay writing for ICS 314, the informal nature of the assignments has allowed me to express my voice without sounding robotic. However, when faced with more formal tasks such as research papers, AI becomes a go-to resource for helping me structure the initial ideas of the paper.
   
-- Final project: As of right now, in the beginning phase of our final project there is no need for the use of AI because I could just reference back to our previous experiences to see how and why the code works. But, I can forsee me using it in the future milestones when we get into the nitty-gritty of the functions that we have not learned.
+- Final project: As of right now, in the beginning phase of our final project there is no need for the use of AI because I could just reference back to our previous experiences to see how and why the code works. But, I can foresee me using it in the future milestones when we get into the nitty-gritty of the functions that we have not learned.
   
 - Learning a concept/tutorial: I used AI to try to understand the underscore functions. I just could not grasp the content but when I had ChatGPT break down why and how underscore functions worked, things started falling into place. It gave me a solid foundation, and soon enough, I had a handle on it.
   
@@ -51,7 +51,7 @@ AI, particularly ChatGPT, has significantly improved my learning in software eng
 ## Practical Applications
 Leveraging AI for daily tasks holds immense value. As highlighted earlier, AI becomes particularly valuable in instances where human assistance is unavailable. From a software engineering perspective, AI serves as a valuable tool for code refinement and overcoming obstacles when faced with creative blocks.
 
-## Challenges & Oppurtunities
+## Challenges & Opportunities
 AI aids in code generation and debugging, but its reliability isn't guaranteed, often yielding unhelpful solutions. Overreliance may lead to delayed issue resolution and hinder learning. Instead of depending solely on tools like ChatGPT, cultivate independent problem-solving skills. Despite assisting in debugging and code generation, integrating AI tools like ChatGPT into software engineering poses challenges. Balancing their use with a deeper understanding of coding concepts is crucial for success in courses like ICS 314 and interviews.
 
 ## Comparative Analysis
