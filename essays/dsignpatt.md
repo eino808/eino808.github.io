@@ -15,7 +15,8 @@ labels:
 
 In the realm of software development, design patterns serve as the unseen architects, quietly shaping the digital landscapes we encounter daily. Think of them as the choreographers orchestrating a digital dance. Similar to a skilled player navigating the vast world of a beloved video game, understanding and implementing design patterns is a crucial skill that often surfaces in technical interviews. However, when faced with direct questions like, "What are design patterns?" and "Can you share the ones you've used in your code?" a straightforward response often falls short of capturing the true impact of their influence. 
 
-<img width="300px" class="rounded float-start pe-4" src="../img/steve.jpg">## I see you
+<img width="300px" class="rounded float-start pe-4" src="../img/steve.jpg">
+## I see you
 
 Behavioral design patterns, a category within the larger realm of design patterns, focus on defining communication patterns between objects to enhance flexibility and communication within a system. One key behavioral design pattern is the Observer pattern, designed to efficiently relay changes in one object to dependent objects. The Observer pattern involves two main participants: the subject and the observers. The subject, or the observable, maintains a list of dependents, the observers. When the state of the subject changes, it notifies all its observers, prompting them to update their state or behavior accordingly. This separation ensures a more adaptable system by disconnecting the subject from its observers.
 
@@ -35,6 +36,7 @@ As you navigate the expansive Minecraft world, the Observer design pattern manif
 
 With the Observer pattern in mind, my team and I are currently in the process of creating a marketplace-like app where you are able to create, edit, update, and sell listings; called UHMarketplace. In the realm of UHMarketplace, the application of the Observer pattern is embodied through individual listings, acting as subjects of interest for users. Each listing, whether an item for sale or a service, maintains crucial details and serves as a subject that users observe by expressing interest or saving the listing. The listing, in turn, keeps a registry of registered observers. When there's a change in the listing, like a price update or availability change, the listing notifies all the interested users. This real-time notification system ensures users stay informed about the items they are interested in, creating a more engaging and interactive experience within the marketplace platform.
 
-<img width="300px" class="rounded float-start pe-4" src="../img/fatsteve.png">## I think I might be experiencing writer's block.
+<img width="300px" class="rounded float-start pe-4" src="../img/fatsteve.png">
+## I think I might be experiencing writer's block.
 
 In both the vast landscapes of Minecraft and the intricate realm of coding, the Observer pattern emerges as a digital totem of undying. This metaphorical guardian, reminiscent of the vigilant Iron Golem or the watchful villagers in Minecraft fortresses, stands as a beacon in our coding adventures. Just as it ensures that changes are communicated seamlessly in the pixelated world, the Observer pattern, manifested in our UHMarketplace, becomes the guardian of real-time notifications, keeping users informed and engaged.
