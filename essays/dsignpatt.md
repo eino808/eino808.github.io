@@ -30,7 +30,9 @@ In graphical user interfaces (GUIs), for instance, the Observer pattern is commo
 In the endless and pixelated landscape of Minecraft, where every block holds untold possibilities, consider the Observer design pattern takes on the form of an all-seeing eye. Say, an Iron Golem that watches over the dynamic changes within the game world. Imagine constructing a fortress in Minecraft, with various elements such as trapdoors, redstone contraptions, and hidden passages. Here, the Observer pattern plays the role of a vigilant overseer, ensuring that when one element of the fortress undergoes a transformation, other interconnected components are immediately informed and can adapt accordingly.
 
 <div class="text-center p-4">
-  <img width="300px" class="rounded float-start pe-4" src="../img/giga.png">
+  <img width="300px" 
+       src="../img/giga.png" 
+       class="img-thumbnail" >
 </div>
 
 Consider a scenario where you've built an automated farm relying on villagers in Minecraft. These villagers act as vigilant sentinels, observing the growth of crops. When a crop reaches maturity, the Observer pattern triggers a series of events, such as activating pistons to harvest the crops and depositing them into a storage system. In this way, the Observer pattern mimics its software development counterpart, notifying dependent objects of changes and facilitating a synchronized response.
