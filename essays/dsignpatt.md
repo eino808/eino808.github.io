@@ -15,7 +15,7 @@ labels:
 
 In the realm of software development, design patterns serve as the unseen architects, quietly shaping the digital landscapes we encounter daily. Think of them as the choreographers orchestrating a digital dance. Similar to a skilled player navigating the vast world of a beloved video game, understanding and implementing design patterns is a crucial skill that often surfaces in technical interviews. However, when faced with direct questions like, "What are design patterns?" and "Can you share the ones you've used in your code?" a straightforward response often falls short of capturing the true impact of their influence. 
 
-## I see you
+<img width="300px" class="rounded float-start pe-4" src="../img/steve.jpg">## I see you
 
 Behavioral design patterns, a category within the larger realm of design patterns, focus on defining communication patterns between objects to enhance flexibility and communication within a system. One key behavioral design pattern is the Observer pattern, designed to efficiently relay changes in one object to dependent objects. The Observer pattern involves two main participants: the subject and the observers. The subject, or the observable, maintains a list of dependents, the observers. When the state of the subject changes, it notifies all its observers, prompting them to update their state or behavior accordingly. This separation ensures a more adaptable system by disconnecting the subject from its observers.
 
