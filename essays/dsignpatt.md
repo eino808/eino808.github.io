@@ -41,4 +41,4 @@ With the Observer pattern in mind, my team and I are currently in the process of
 
 ## I think I might be experiencing writer's block.
 
-In both the vast landscapes of Minecraft and the intricate realm of coding, the Observer pattern emerges as a digital totem of undying. This metaphorical guardian, reminiscent of the vigilant Iron Golem or the watchful villagers in Minecraft fortresses, stands as a beacon in our coding adventures. Just as it ensures that changes are communicated seamlessly in the pixelated world, the Observer pattern, manifested in our UHMarketplace, becomes the guardian of real-time notifications, keeping users informed and engaged.
+In both the vast landscapes of Minecraft and the intricate realm of coding, the Observer pattern emerges as a digital totem of undying. This guardian, reminiscent of the vigilant Iron Golem or the watchful villagers in Minecraft fortresses, stands as a beacon in our coding adventures. Just as it ensures that changes are communicated seamlessly in the pixelated world, the Observer pattern, manifested in our UHMarketplace, becomes the guardian of real-time notifications, keeping users informed and engaged.
