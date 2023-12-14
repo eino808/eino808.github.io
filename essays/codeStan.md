@@ -4,7 +4,7 @@ type: essay
 title: "Is This Nice?"
 # All dates must be YYYY-MM-DD format!
 date: 2023-09-20
-published: true
+published: false
 labels:
   - Javascript
   - Athletic Software Engineering
