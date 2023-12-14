@@ -4,7 +4,7 @@ type: essay
 title: "I forgot the SemiColon();"
 # All dates must be YYYY-MM-DD format!
 date: 2023-08-29
-published: true
+published: false
 labels:
   - Javascript
   - Software Engineering
