@@ -4,7 +4,7 @@ type: essay
 title: "JavaScript?! I thought it was just Java..."
 # All dates must be YYYY-MM-DD format!
 date: 2023-08-29
-published: true
+published: false
 labels:
   - Javascript
   - Athletic Software Engineering
