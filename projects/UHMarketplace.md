@@ -18,7 +18,7 @@ The <a href="https://uhmarketplace.com">UHMarketplace</a>, our final project dev
 <div class="container">
   <div class="row text-center p-4">
     <div class="col-md-3">
-      <img width="600px" class="img-thumbnail rounded float-start pe-4" src="../img/uhmarket.png">
+      <img class="img-thumbnail rounded float-start pe-4" src="../img/uhmarket.png">
     </div>
   </div>
 </div>
