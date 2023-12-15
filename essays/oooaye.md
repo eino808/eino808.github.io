@@ -4,7 +4,7 @@ type: essay
 title: "How to - UI Framework"
 # All dates must be YYYY-MM-DD format!
 date: 2023-10-03
-published: false
+published: true
 labels:
   - HTML
   - CSS
@@ -27,7 +27,7 @@ When you compare using Bootstrap to just sticking with raw HTML and CSS, Bootstr
 
 Plus, Bootstrap's standardized approach makes sure that your website's styles stay consistent and look good on different devices. Keeping that consistency could prove to be a challenge with raw HTML and CSS, especially as the project becomes more complex.
 
-For instance, in one of our previous WODs (Workout of The Day), we were tasked to code the front page of this food establishment using what we've learned with Bootstrap. Let me tell you, Bootstrap made it a lifetimes easier trying to create a navbar, and the other website elements. If we were to make the same exact website using raw HTML and CSS I don't think I could've produced the same results. Since the WODs are under a time crunch it's crucial you use what's most effective. In this case, Bootstrap was definitely the top choice.
+For instance, in one of our previous WODs (Workout of The Day), we were tasked to code the front page of this food establishment using what we've learned with Bootstrap. Let me tell you, Bootstrap made it a lifetime easier trying to create a navbar, and the other website elements. If we were to make the same exact website using raw HTML and CSS I don't think I could've produced the same results. Since the WODs are under a time crunch it's crucial you use what's most effective. In this case, Bootstrap was definitely the top choice.
 
 ## Website(s) using Bootstrap VS raw HTML & CSS
 
