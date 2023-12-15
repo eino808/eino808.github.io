@@ -10,11 +10,21 @@ labels:
 summary: "My experience learning manual"
 ---
 
-<div class="text-center p-4">
-  <img width="200px" src="../img/si1.JPG" class="img-thumbnail" >
-  <img width="200px" src="../img/si2.jpg" class="img-thumbnail" >
-  <img width="300px" src="../img/si3.jpg" class="img-thumbnail" >
-  <img width="300px" src="../img/si4.jpg" class="img-thumbnail" >
+<div class="container">
+  <div class="row text-center p-4">
+    <div class="col-md-3">
+      <img width="200px" src="../img/si1.JPG" class="img-thumbnail">
+    </div>
+    <div class="col-md-3">
+      <img width="200px" src="../img/si2.jpg" class="img-thumbnail">
+    </div>
+    <div class="col-md-3">
+      <img width="300px" src="../img/si3.jpg" class="img-thumbnail">
+    </div>
+    <div class="col-md-3">
+      <img width="300px" src="../img/si4.jpg" class="img-thumbnail">
+    </div>
+  </div>
 </div>
 
 ## IM BROKE
