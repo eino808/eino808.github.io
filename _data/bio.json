@@ -4,7 +4,7 @@
     "label": "Student",
     "picture": "https://github.com/eino808.png",
     "email": "ei4@hawaii.edu",
-    "phone": "808-445-3170",
+    "phone": "808-XXX-XXXX",
     "website": "https://eino808.github.io",
     "summary": "I am currently a 3rd year at the University of Hawaii at Manoa, studying for a B.S. in Computer Science. I expect to graduate Spring, 2025",
     "location": { "postalCode": "96707", "city": "Kapolei", "countryCode": "USA", "region": "Hawaii" },
@@ -16,6 +16,7 @@
   "interests": [
     { "name": "Software Engineering" },
     { "name": "AI" },
+    { "name": "Music" },
     { "name": "Video Games" }
   ],
   "skills": [
