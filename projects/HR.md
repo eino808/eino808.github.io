@@ -4,7 +4,7 @@ type: project
 image: img/HRbruh.jpg
 title: "HR"
 date: 2023
-published: true
+published: false
 labels:
   - Java
   - GitHub
