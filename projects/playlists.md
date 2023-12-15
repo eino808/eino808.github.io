@@ -129,6 +129,6 @@ public class Song {
 }
 
 ```
-Above, are snippets of the custom exception, and the class designed for modeling the song object.
+Click this to see the source code of this project.
 
 
