@@ -21,9 +21,6 @@ summary: "My experience learning manual"
     <div class="col-md-3">
       <img width="300px" src="../img/si3.jpg" class="img-thumbnail">
     </div>
-    <div class="col-md-3">
-      <img width="300px" src="../img/si4.jpg" class="img-thumbnail">
-    </div>
   </div>
 </div>
 
