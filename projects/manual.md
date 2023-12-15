@@ -30,5 +30,8 @@ This beautiful car is registered in my name, and every month, I'm shelling out f
     <div class="col-md-3">
       <img width="300px" src="../img/si3.jpg" class="img-thumbnail">
     </div>
+    <div class="col-md-3">
+      <img width="300px" src="../img/si4.jpg" class="img-thumbnail">
+    </div>
   </div>
 </div>
