@@ -13,7 +13,7 @@ summary: "Final Project for ICS 314"
 ---
 
 ## Facebook but better
-The UHMarketplace, our final project developed in ICS 314 by a team of five, is an online platform designed for the University of Hawaii community. Utilizing Meteor, MongoDB, React, and Bootstrap, our platform provides an efficient and user-friendly experience for buying and selling items. The UHMarketplace serves as a practical application of our coursework, emphasizing entrepreneurship within a structured framework. Employing Meteor for application development, MongoDB for data storage, React for the front end, and Bootstrap for design, the platform provides an open marketplace accessible to all users
+The <a href="https://uhmarketplace.com">UHMarketplace</a>, our final project developed in ICS 314 by a team of five, is an online platform designed for the University of Hawaii community. Utilizing Meteor, MongoDB, React, and Bootstrap, our platform provides an efficient and user-friendly experience for buying and selling items. The UHMarketplace serves as a practical application of our coursework, emphasizing entrepreneurship within a structured framework. Employing Meteor for application development, MongoDB for data storage, React for the front end, and Bootstrap for design, the platform provides an open marketplace accessible to all users
 
 ## My Contributions
 
