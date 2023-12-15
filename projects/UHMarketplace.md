@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/play.png
+image: img/uhmainlogo.png
 title: "UHMarketplace"
 date: 2023
 published: true
