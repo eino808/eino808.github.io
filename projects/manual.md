@@ -1,4 +1,4 @@
----
+![image](https://github.com/eino808/eino808.github.io/assets/102901526/387793c3-535c-4eb2-8fc3-c7ee2ee430f3)---
 layout: project
 type: project
 image: img/honda.png
@@ -12,9 +12,10 @@ summary: "My experience learning manual"
 ---
 
 <div class="text-center p-4">
-  <img width="200px" src="../img/car1.jpg" class="img-thumbnail" >
-  <img width="200px" src="../img/car2.jpg" class="img-thumbnail" >
-  <img width="300px" src="../img/car3.jpg" class="img-thumbnail" >
+  <img width="200px" src="../img/si1.JPG" class="img-thumbnail" >
+  <img width="200px" src="../img/si2.jpg" class="img-thumbnail" >
+  <img width="300px" src="../img/si3.jpg" class="img-thumbnail" >
+  <img width="300px" src="../img/si4.jpg" class="img-thumbnail" >
 </div>
 
 ## IM BROKE
