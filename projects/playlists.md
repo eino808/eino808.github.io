@@ -13,7 +13,7 @@ summary: "A makeshift playlist project that I developed for ICS 111"
 
 This interactive program serves as a simulation allowing users to add, remove, or save a specified number of songs (X amount) to a playlist, which can be stored in a file. 
 
-```
+```python
 
 Lets listen to some tunes !!
 	** Boba **
