@@ -1,4 +1,3 @@
-![image](https://github.com/eino808/eino808.github.io/assets/102901526/387793c3-535c-4eb2-8fc3-c7ee2ee430f3)---
 layout: project
 type: project
 image: img/honda.png
