@@ -30,6 +30,4 @@ Do you like it? Should I make any changes?
 Within this program, you'll find a collection of no less than five song objects, each containing valid data. To make these operations smoother, the program uses a set of three personalized methods that work together in harmony. Moreover, the custom exceptions help catch any input errors from users that might be out of the valid range. While it may not rival the features of platforms like Spotify, the program emulates the experience of managing and organizing songs within a playlist.
 
 
-Click this to see the source code of this project.
-
-https://github.com/eino808/song111
+Click this to see the source code of this <a href="https://github.com/eino808/song111">project</a>.
