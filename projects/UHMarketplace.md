@@ -26,4 +26,4 @@ This project marked a significant transformation of meteor-template-react, origi
 On a personal growth note, this project became a lesson in self-directed learning. While I had a foundation in the basics from class, the actual implementation introduced new and occasionally perplexing challenges. This experience underscored the importance of staying proactive in my education, fostering a desire to keep pace with my peers.
 
 ## Links
-
+<a href="https://the-manoa-marketplace.github.io/uh-marketplace.github.io/">Homepage</a>, <a href="https://github.com/the-manoa-marketplace/the-real-manoa-marketplace">GitHub</a>,
